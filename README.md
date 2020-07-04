@@ -1,4 +1,4 @@
-# django_blog_template
+# django_blog
 
 Blog for The Peoples Morale
 
